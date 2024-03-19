@@ -18,5 +18,6 @@ The project depends on the following Python libraries:
 ### Setting Up Your Environment
 It's recommended to use a virtual environment for Python projects. This keeps dependencies required by different projects separate by creating isolated environments for them.
 
-
+### Blog Post
+You can find my blog post [here](https://medium.com/@nawaf.alhussain2/unveiling-the-dynamics-of-saudi-telecom-company-stc-stock-an-analytical-dive-12b4693a404f).
 
