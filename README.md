@@ -21,3 +21,5 @@ It's recommended to use a virtual environment for Python projects. This keeps de
 ### Blog Post
 You can find my blog post [here](https://medium.com/@nawaf.alhussain2/unveiling-the-dynamics-of-saudi-telecom-company-stc-stock-an-analytical-dive-12b4693a404f).
 
+### Source for the data 
+https://www.stc.com.sa/content/stcgroupwebsite/sa/en/investors/share-information/shares/share-series-monitor.html
